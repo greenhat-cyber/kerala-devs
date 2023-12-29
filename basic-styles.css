@@ -1,15 +1,17 @@
-.center-text{
+.center-text {
     text-align: center;
     margin-top: 50px;
 }
 
 /* Custom CSS */
 .landing-image {
-    border-radius: 10px; /* Adds rounded corners */
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Adds a subtle box shadow */
+    border-radius: 10px;
+    /* Adds rounded corners */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    /* Adds a subtle box shadow */
 }
 
-p{
+p {
     font-size: larger;
 }
 
@@ -18,7 +20,7 @@ p{
     text-align: center;
 }
 
-.kerala-dev-logo{
+.kerala-dev-logo {
     margin-left: 5px;
     height: 40px;
 }
